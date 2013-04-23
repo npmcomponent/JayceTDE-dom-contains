@@ -1,6 +1,6 @@
 {
-  "name": "DOM-contains",
-  "repo": "JayceTDE/DOM-contains",
+  "name": "dom-contains",
+  "repo": "JayceTDE/dom-contains",
   "description": "Check if one DOM element contains another",
   "version": "0.0.1",
   "keywords": [],
