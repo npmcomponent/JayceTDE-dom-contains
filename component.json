@@ -1,0 +1,13 @@
+{
+  "name": "DOM-contains",
+  "repo": "JayceTDE/DOM-contains",
+  "description": "Check if one DOM element contains another",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
