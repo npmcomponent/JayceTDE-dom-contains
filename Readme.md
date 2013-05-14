@@ -5,11 +5,20 @@
 
 ## Installation
 
-    $ component install JayceTDE/DOM-contains
+    $ component install JayceTDE/dom-contains
 
-## API
+## Usage
 
-   
+```javascript
+
+var domContains = require('dom-contains')
+  , el1 = document.querySelector('#el1')
+  , el2 = document.querySelector('#el2')
+;
+
+domContains(el1, el2); // true or false if el2 is a child of el1
+
+```
 
 ## License
 
